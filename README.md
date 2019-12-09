@@ -1,2 +1,3 @@
-# errata
-Repository for various erratas
+# Errata Repository
+
+This is a repository for various errata that accidentally made it through to publication.
